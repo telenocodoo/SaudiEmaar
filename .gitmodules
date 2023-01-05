@@ -2,3 +2,8 @@
 	path = abdtrust11/report
 	url = git@github.com:abdtrust11/report.git
 	branch = main
+
+[submodule "abdtrust11/reports"]
+	path = abdtrust11/reports
+	url = git@github.com:abdtrust11/report.git
+	branch = main
